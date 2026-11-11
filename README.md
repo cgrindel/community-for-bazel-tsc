@@ -8,8 +8,7 @@ Technical Steering Committee (TSC).
 - [GOVERNANCE.md](GOVERNANCE.md): how the TSC adds, removes, and manages its
   members.
 - [MEMBERS.md](MEMBERS.md): the current TSC roster.
-- [policies/](policies/): policies the TSC has adopted, such as the
-  [Bazel Slack admin policy](policies/slack-admin.md).
+- [policies/](policies/): policies the TSC has adopted.
 
 ## How changes are made
 
