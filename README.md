@@ -3,12 +3,17 @@
 This repository holds the governance records of the Community for Bazel
 Technical Steering Committee (TSC).
 
-## What is here
+## What's in this repo
 
-- [GOVERNANCE.md](GOVERNANCE.md): how the TSC adds, removes, and manages its
-  members.
-- [MEMBERS.md](MEMBERS.md): the current TSC roster.
-- [policies/](policies/): policies the TSC has adopted.
+- **CHARTER.md:** the LF Projects technical charter. Changes need a 2/3 vote
+  of the TSC and approval from LF Projects (charter section 8.a). Not in the
+  repo yet; see the
+  [adopted charter (PDF)](https://github.com/bazel-contrib/.github/blob/master/Community%20for%20Bazel%20Technical%20Charter.pdf).
+- **[GOVERNANCE.md](GOVERNANCE.md):** membership rules the charter leaves to
+  the TSC. Changes need a TSC vote.
+- **[MEMBERS.md](MEMBERS.md):** current TSC members. Updated by PR after a
+  vote.
+- **[policies/](policies/):** other TSC policies, each added by PR.
 
 ## How changes are made
 
