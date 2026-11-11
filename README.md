@@ -9,8 +9,8 @@ Technical Steering Committee (TSC).
   of the TSC and approval from LF Projects (charter section 8.a). Not in the
   repo yet; see the
   [adopted charter (PDF)](https://github.com/bazel-contrib/.github/blob/master/Community%20for%20Bazel%20Technical%20Charter.pdf).
-- **[GOVERNANCE.md](GOVERNANCE.md):** membership rules the charter leaves to
-  the TSC. Changes need a TSC vote.
+- **GOVERNANCE.md:** membership rules the charter leaves to the TSC. Changes
+  need a TSC vote. Coming with the membership amendment to the charter.
 - **[MEMBERS.md](MEMBERS.md):** current TSC members. Updated by PR after a
   vote.
 - **[policies/](policies/):** other TSC policies, each added by PR.
