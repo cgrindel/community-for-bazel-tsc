@@ -26,7 +26,8 @@ other vote.
 These rules apply to every vote this document calls for.
 
 - Votes take place in the TSC Slack channel or at a TSC meeting.
-- A motion needs yes votes from the required share of all current members. Fractions round up.
+- A motion needs yes votes from the required share of all members at the time the vote opens.
+  Fractions round up.
 - A vote stays open for two weeks. Unless this document says otherwise, it may close earlier once
   the outcome can no longer change.
 - A motion that has not reached its threshold when the vote closes fails.
@@ -46,7 +47,8 @@ A nominee whose seat would put the TSC over the employer cap cannot be seated.
 
 ## Employer cap
 
-No more than one-third of the members may be employed by the same employer. Fractions round down.
+No more than one-third of the members may be employed by the same employer. Fractions round down,
+but the cap is never less than one.
 
 Only employment counts. Contracting and consulting relationships do not. Companies under common
 control count as one employer.
@@ -65,8 +67,8 @@ acquires another, or when the TSC shrinks. When that happens:
 
 ### Resignation
 
-A member resigns by opening a pull request that removes them from [MEMBERS.md](MEMBERS.md), or by
-telling the TSC in writing so that another member can open it.
+A member resigns by telling the TSC in writing. The resignation takes effect when the TSC receives
+the message.
 
 ### Inactivity
 

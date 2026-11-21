@@ -68,10 +68,11 @@ must comply with the terms of this Charter.
 - b. A quorum for TSC meetings requires at least fifty percent of all voting members to be present.
   If a quorum is not met, the TSC may continue to meet but will be prevented from making any
   decisions at the meeting.
-- c. Except as provided in Section 7.c. and 8.a, and except where the TSC’s GOVERNANCE file requires
-  a higher threshold, decisions by vote at a meeting require a majority vote of those in attendance,
-  provided a quorum is met. Decisions made by electronic vote without a meeting require a majority
-  vote of all voting members of the TSC.
+- c. Except as provided in Section 7.c. and 8.a, decisions by vote at a meeting require a majority
+  vote of those in attendance, provided a quorum is met. Decisions made by electronic vote without a
+  meeting require a majority vote of all voting members of the TSC. Where the TSC’s GOVERNANCE file
+  requires a higher threshold for a decision, that threshold also applies, whether the vote is held
+  at a meeting or electronically.
 - d. In the event a vote cannot be resolved by the TSC, any voting member may refer the matter to
   the Series Manager for assistance in reaching a resolution.
 
