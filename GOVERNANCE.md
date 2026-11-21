@@ -72,15 +72,15 @@ the message.
 
 ### Inactivity
 
-A member is silent when they have not voted, posted, or reviewed anything in the TSC Slack channel
-or in this repository.
+A member is inactive when they have missed three TSC votes in a row. Abstaining counts as voting.
 
-1. After a member has been silent for 30 days, any other member may open a pull request that removes
-   them from [MEMBERS.md](MEMBERS.md). The pull request tags the silent member.
+1. Any other member may open a pull request that removes an inactive member from
+   [MEMBERS.md](MEMBERS.md). The pull request tags the inactive member.
 2. The pull request stays open for two weeks.
-3. If the silent member replies in any way during that time, the pull request is closed and they
-   keep their seat.
-4. If they do not reply, one other member approves the pull request and it is merged.
+3. If the inactive member replies in any way during that time, the pull request is closed, they keep
+   their seat, and their count of missed votes starts over.
+4. If they do not reply, a member other than the one who opened the pull request approves it and it
+   is merged.
 
 No vote is needed. A person removed this way may return through a new nomination.
 
