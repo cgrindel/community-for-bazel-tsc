@@ -31,8 +31,7 @@ These rules apply to every vote this document calls for.
   the outcome can no longer change.
 - A motion that has not reached its threshold when the vote closes fails.
 - [MEMBERS.md](MEMBERS.md) is updated only after the vote has closed and the motion has passed. The
-  update is a pull request that links to the vote and is approved by at least one TSC member other
-  than its author.
+  update links to the vote.
 
 ## Adding members
 
