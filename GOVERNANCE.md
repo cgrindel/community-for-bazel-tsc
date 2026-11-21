@@ -104,5 +104,5 @@ outcome of every vote is published, wherever the discussion took place.
 
 ## Changing this document
 
-Changes to this document are made by pull request. A change passes with the approval of two-thirds
-of all current members, under the voting rules above.
+A change to this document passes with the approval of two-thirds of all current members, under the
+voting rules above.
