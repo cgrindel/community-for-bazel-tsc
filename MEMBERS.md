@@ -1,6 +1,6 @@
 # Members
 
-See [What's in this repo](README.md#whats-in-this-repo) for how this file is changed.
+See [GOVERNANCE.md](GOVERNANCE.md) for how this file is changed.
 
 The current members of the Community for Bazel TSC. Changes to this list are
 made by pull request.
