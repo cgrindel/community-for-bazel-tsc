@@ -25,8 +25,8 @@ other vote.
 These rules apply to every vote this document calls for.
 
 - Votes take place in the TSC Slack channel or at a TSC meeting.
-- Thresholds count all current members, not only those who vote. A member who does not vote counts
-  against the motion. Fractions round up. With eight members, two-thirds is six.
+- A motion needs yes votes from the required share of all current members. Not voting has the same
+  effect as voting no. Fractions round up.
 - A vote stays open for two weeks. Unless this document says otherwise, it may close earlier once
   the outcome can no longer change.
 - A motion that has not reached its threshold when the vote closes fails.
@@ -47,7 +47,6 @@ A nominee whose seat would put the TSC over the employer cap cannot be seated.
 ## Employer cap
 
 No more than one-third of the members may be employed by the same employer. Fractions round down.
-With eight members, the cap is two.
 
 Only employment counts. Contracting and consulting relationships do not. Companies under common
 control count as one employer.
@@ -86,7 +85,7 @@ No vote is needed. A person removed this way may return through a new nomination
 ## Removal
 
 The TSC may remove a member with the approval of two-thirds of the other members. The member being
-removed is not counted and does not vote. With eight members, that is five of the other seven.
+removed is not counted and does not vote.
 
 - A removal motion names one member.
 - Only one removal motion may be open at a time.
