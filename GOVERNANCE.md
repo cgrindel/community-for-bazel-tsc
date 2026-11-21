@@ -38,7 +38,7 @@ These rules apply to every vote this document calls for.
 2. If the nominee agrees, the member posts the nomination to the TSC.
 3. The TSC votes. The nomination passes with the approval of two-thirds of all current members.
 4. After the vote passes, the nominator opens a pull request that adds the new member to
-   [MEMBERS.md](MEMBERS.md). The new member is seated on the date it merges.
+   [MEMBERS.md](MEMBERS.md). The new member is seated on the date the vote closes.
 
 A nomination does not need a second. A member may nominate someone who works for the same employer.
 A nominee whose seat would put the TSC over the employer cap cannot be seated.
