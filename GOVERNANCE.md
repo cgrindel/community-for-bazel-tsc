@@ -91,6 +91,10 @@ removed is not counted and does not vote.
 - A removal vote stays open for at least two weeks. It does not close early.
 - The member is told when the motion opens and may respond before the vote closes.
 
+> [!NOTE]
+> These limits keep removals deliberate. They give the member time to respond, give every other
+> member time to weigh in, and prevent several members from being removed in quick succession.
+
 ## Openness
 
 The TSC conducts its business in public by default. That includes nominations and votes.
