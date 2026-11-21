@@ -11,9 +11,6 @@ The members of the TSC are listed in [MEMBERS.md](MEMBERS.md). Every member is a
 Seats have no term. A seat ends only by resignation, inactivity, the employer cap, or removal, as
 described below.
 
-Every change to the roster is made by a pull request that is approved by at least one TSC member
-other than its author. A new member's seated date is the date that pull request merges.
-
 ## Membership size
 
 - The TSC has no maximum size.
@@ -33,14 +30,17 @@ These rules apply to every vote this document calls for.
 - A vote stays open for two weeks. Unless this document says otherwise, it may close earlier once
   the outcome can no longer change.
 - A motion that has not reached its threshold when the vote closes fails.
-- The pull request that records the result links to the vote.
+- [MEMBERS.md](MEMBERS.md) is updated only after the vote has closed and the motion has passed. The
+  update is a pull request that links to the vote and is approved by at least one TSC member other
+  than its author.
 
 ## Adding members
 
 1. A TSC member asks the nominee privately whether they are willing to serve.
 2. If the nominee agrees, the member posts the nomination to the TSC.
 3. The TSC votes. The nomination passes with the approval of two-thirds of all current members.
-4. The nominator opens a pull request that adds the new member to [MEMBERS.md](MEMBERS.md).
+4. After the vote passes, the nominator opens a pull request that adds the new member to
+   [MEMBERS.md](MEMBERS.md). The new member is seated on the date it merges.
 
 A nomination does not need a second. A member may nominate someone who works for the same employer.
 A nominee whose seat would put the TSC over the employer cap cannot be seated.
