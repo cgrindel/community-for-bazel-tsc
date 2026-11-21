@@ -6,8 +6,9 @@ Technical Steering Committee (TSC).
 ## What's in this repo
 
 - **[CHARTER.md](CHARTER.md):** the LF Projects technical charter.
-- **GOVERNANCE.md:** membership rules the charter leaves to the TSC. Changes
-  need a TSC vote. Coming with the membership amendment to the charter.
+- **[GOVERNANCE.md](GOVERNANCE.md):** membership rules the charter leaves to
+  the TSC. Changes need a 2/3 vote of the TSC. Proposed; it takes effect with
+  the membership amendment to the charter.
 - **[MEMBERS.md](MEMBERS.md):** current TSC members. Updated by PR after a
   vote.
 - **[policies/](policies/):** other TSC policies, each added by PR.
