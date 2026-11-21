@@ -88,7 +88,7 @@ removed is not counted and does not vote.
 
 - A removal motion names one member.
 - Only one removal motion may be open at a time.
-- A removal vote stays open for the full two weeks. It does not close early.
+- A removal vote stays open for at least two weeks. It does not close early.
 - The member is told when the motion opens and may respond before the vote closes.
 
 ## Openness
