@@ -54,7 +54,8 @@ No more than one-third of the members may be employed by the same employer. Frac
 but the cap is never less than one.
 
 Only employment counts. Contracting and consulting relationships do not. Companies under common
-control count as one employer.
+control count as one employer. A member who is self-employed or not employed has no employer for
+this purpose.
 
 A member whose employer changes updates [MEMBERS.md](MEMBERS.md) promptly.
 
@@ -106,8 +107,9 @@ removed is not counted.
 
 The TSC conducts its business in public by default. That includes nominations and votes.
 
-The TSC may discuss or vote on a specific matter in private. Any member may ask for this. The
-outcome of every vote is published in the TSC's public Slack channel, wherever the vote took place.
+A member may raise a specific matter with the TSC in private, and the TSC may discuss or vote on it
+there. The TSC may move the matter to public. The outcome of every vote is published in the TSC's
+public Slack channel, wherever the vote took place.
 
 ## Changing this document
 
