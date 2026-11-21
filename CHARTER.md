@@ -1,10 +1,10 @@
-# Technical Charter (the “Charter”) for Community for Bazel a Series of LF Projects, LLC
+# Technical Charter (the “Charter”)<br />for<br />Community for Bazel a Series of LF Projects, LLC
 
 > This is a word-for-word Markdown copy of the signed charter. The
-> [signed PDF](https://github.com/bazel-contrib/.github/blob/master/Community%20for%20Bazel%20Technical%20Charter.pdf)
+> [signed PDF](https://github.com/bazel-contrib/.github/blob/f231cc0873040935c449fa6909d52eb462262005/Community%20for%20Bazel%20Technical%20Charter.pdf)
 > is the authoritative version.
 
-Adopted June 18, 2024
+**Adopted June 18, 2024**
 
 This Charter sets forth the responsibilities and procedures for technical contribution to, and
 oversight of, the Community for Bazel open source project, which has been established as Community
