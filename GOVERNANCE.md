@@ -25,14 +25,17 @@ priority.
 
 These rules apply to every vote this document calls for.
 
-- Votes take place in the TSC Slack channel or at a TSC meeting.
+- A vote is held electronically or at a TSC meeting.
+- An electronic vote is cast in the TSC's public Slack channel, `#community-for-bazel-tsc`. A vote
+  on a private matter is cast in a private Slack channel of TSC members.
+- An electronic vote stays open for two weeks. Unless this document says otherwise, it may close
+  earlier once the outcome can no longer change.
+- A vote at a meeting concludes at the meeting.
 - A motion needs yes votes from the required share of all members at the time the vote opens.
   Fractions round up.
-- A vote stays open for two weeks. Unless this document says otherwise, it may close earlier once
-  the outcome can no longer change.
 - A motion that has not reached its threshold when the vote closes fails.
 - [MEMBERS.md](MEMBERS.md) is updated only after the vote has closed and the motion has passed. The
-  update links to the vote.
+  update links to the vote or to its published result.
 
 ## Adding members
 
@@ -92,7 +95,7 @@ removed is not counted.
 - Any member may open a removal motion.
 - A removal motion names one member.
 - Only one removal motion may be open at a time.
-- The vote stays open for two weeks and does not close early.
+- The vote is held electronically. It stays open for two weeks and does not close early.
 - The member is told when the motion opens and may respond before the vote closes.
 
 > [!NOTE]
@@ -104,7 +107,7 @@ removed is not counted.
 The TSC conducts its business in public by default. That includes nominations and votes.
 
 The TSC may discuss or vote on a specific matter in private. Any member may ask for this. The
-outcome of every vote is published, wherever the discussion took place.
+outcome of every vote is published in the TSC's public Slack channel, wherever the vote took place.
 
 ## Changing this document
 
