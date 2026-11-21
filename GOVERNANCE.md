@@ -25,8 +25,7 @@ other vote.
 These rules apply to every vote this document calls for.
 
 - Votes take place in the TSC Slack channel or at a TSC meeting.
-- A motion needs yes votes from the required share of all current members. Not voting has the same
-  effect as voting no. Fractions round up.
+- A motion needs yes votes from the required share of all current members. Fractions round up.
 - A vote stays open for two weeks. Unless this document says otherwise, it may close earlier once
   the outcome can no longer change.
 - A motion that has not reached its threshold when the vote closes fails.
