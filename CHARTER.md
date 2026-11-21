@@ -71,8 +71,9 @@ must comply with the terms of this Charter.
 - c. Except as provided in Section 7.c. and 8.a, decisions by vote at a meeting require a majority
   vote of those in attendance, provided a quorum is met. Decisions made by electronic vote without a
   meeting require a majority vote of all voting members of the TSC. Where the TSC’s GOVERNANCE file
-  requires a higher threshold for a decision, that threshold also applies, whether the vote is held
-  at a meeting or electronically.
+  sets the vote required for a decision about TSC membership or about the GOVERNANCE file itself,
+  that requirement applies in place of this paragraph, whether the vote is held at a meeting or
+  electronically.
 - d. In the event a vote cannot be resolved by the TSC, any voting member may refer the matter to
   the Series Manager for assistance in reaching a resolution.
 

@@ -87,7 +87,7 @@ No vote is needed. A person removed this way may return through a new nomination
 ## Removal
 
 The TSC may remove a member with the approval of two-thirds of the other members. The member being
-removed is not counted and does not vote.
+removed is not counted.
 
 - A removal motion names one member.
 - Only one removal motion may be open at a time.
