@@ -1,9 +1,5 @@
 # Technical Charter (the “Charter”) for Community for Bazel a Series of LF Projects, LLC
 
-> This is a word-for-word Markdown copy of the signed charter. The
-> [signed PDF](https://github.com/bazel-contrib/.github/blob/f231cc0873040935c449fa6909d52eb462262005/Community%20for%20Bazel%20Technical%20Charter.pdf)
-> is the authoritative version.
-
 **Adopted June 18, 2024**
 
 This Charter sets forth the responsibilities and procedures for technical contribution to, and
@@ -26,11 +22,9 @@ must comply with the terms of this Charter.
 
 - a. The Technical Steering Committee (the “TSC”) will be responsible for all technical oversight of
   the open source Project.
-- b. The TSC’s initial membership will consist of active Bazel Rules Author SIG members invited to
-  join the TSC. They are Alex Eagle, Chuck Grindel, Brentley Jones, Fabian Meumertzheim, Yun Peng,
-  James Sharpe, Keith Smiley, and Daniel Wagner-Hall. Any meetings of the Technical Steering
-  Committee are intended to be open to the public and can be conducted electronically, via
-  teleconference, or in person.
+- b. The voting members of the TSC are determined as documented in the TSC’s GOVERNANCE file. Any
+  meetings of the Technical Steering Committee are intended to be open to the public and can be
+  conducted electronically, via teleconference, or in person.
 - c. TSC projects generally will involve Contributors and Committers. The TSC may adopt or modify
   roles so long as the roles are documented in the CONTRIBUTING file. Unless otherwise documented:
   - i. Contributors include anyone in the technical community that contributes code, documentation,
@@ -74,9 +68,10 @@ must comply with the terms of this Charter.
 - b. A quorum for TSC meetings requires at least fifty percent of all voting members to be present.
   If a quorum is not met, the TSC may continue to meet but will be prevented from making any
   decisions at the meeting.
-- c. Except as provided in Section 7.c. and 8.a, decisions by vote at a meeting require a majority
-  vote of those in attendance, provided a quorum is met. Decisions made by electronic vote without a
-  meeting require a majority vote of all voting members of the TSC.
+- c. Except as provided in Section 7.c. and 8.a, and except where the TSC’s GOVERNANCE file requires
+  a higher threshold, decisions by vote at a meeting require a majority vote of those in attendance,
+  provided a quorum is met. Decisions made by electronic vote without a meeting require a majority
+  vote of all voting members of the TSC.
 - d. In the event a vote cannot be resolved by the TSC, any voting member may refer the matter to
   the Series Manager for assistance in reaching a resolution.
 
