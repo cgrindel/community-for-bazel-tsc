@@ -2,6 +2,8 @@
 
 **Adopted June 18, 2024**
 
+**Amended: pending approval by LF Projects**
+
 This Charter sets forth the responsibilities and procedures for technical contribution to, and
 oversight of, the Community for Bazel open source project, which has been established as Community
 for Bazel a Series of LF Projects, LLC (the “Project”). LF Projects, LLC (“LF Projects”) is a

@@ -18,8 +18,8 @@ described below.
 - The TSC has at least four members.
 - The TSC aims for an odd number of members. This is a preference, not a rule.
 
-If the TSC falls below four members, the remaining members seat new members before they take any
-other vote.
+If the TSC falls below four members, the remaining members make seating new members their first
+priority.
 
 ## Voting on membership
 
@@ -89,9 +89,10 @@ No vote is needed. A person removed this way may return through a new nomination
 The TSC may remove a member with the approval of two-thirds of the other members. The member being
 removed is not counted.
 
+- Any member may open a removal motion.
 - A removal motion names one member.
 - Only one removal motion may be open at a time.
-- A removal vote stays open for at least two weeks. It does not close early.
+- The vote stays open for two weeks and does not close early.
 - The member is told when the motion opens and may respond before the vote closes.
 
 > [!NOTE]

@@ -7,10 +7,9 @@ Technical Steering Committee (TSC).
 
 - **[CHARTER.md](CHARTER.md):** the LF Projects technical charter.
 - **[GOVERNANCE.md](GOVERNANCE.md):** membership rules the charter leaves to
-  the TSC. Changes need a 2/3 vote of the TSC. Proposed; it takes effect with
-  the membership amendment to the charter.
-- **[MEMBERS.md](MEMBERS.md):** current TSC members. Updated by PR after a
-  vote.
+  the TSC. Proposed; it takes effect with the membership amendment to the
+  charter.
+- **[MEMBERS.md](MEMBERS.md):** current TSC members.
 - **[policies/](policies/):** other TSC policies, each added by PR.
 
 ## How changes are made
