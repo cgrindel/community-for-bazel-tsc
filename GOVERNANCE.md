@@ -6,7 +6,8 @@ document and the charter disagree, the charter governs.
 
 ## Members
 
-The members of the TSC are listed in [MEMBERS.md](MEMBERS.md). Every member is a voting member.
+The members of the TSC are listed in [MEMBERS.md](MEMBERS.md). Every member is a voting member. The
+first members are the eight named in the charter as adopted on June 18, 2024.
 
 Seats have no term. A seat ends only by resignation, inactivity, the employer cap, or removal, as
 described below.
